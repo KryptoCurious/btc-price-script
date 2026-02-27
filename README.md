@@ -18,3 +18,5 @@ Next steps: Add backtesting, order book analysis, and more!
 - price_logger_csv.py: Logs top 20 crypto prices to CSV every 30 seconds (view in Excel)
 - Saves timestamped prices to crypto_prices.csv for analysis/Excel. im Building a Foundation for backtesting.
 - 
+## Project
+- multi_order_book_fetcher.py: Real-time order book viewer for multiple coins (top bids/asks, mid-price, spread)
