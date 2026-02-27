@@ -14,3 +14,7 @@ Next steps: Add backtesting, order book analysis, and more!
 - fetch_multiple_prices.py: Fetches prices for BTC, ETH, SOL, BNB, XRP in one go.
 - ## Project
 - live_price_monitor.py → Continuous live updates every 30 seconds
+- ## Project
+- price_logger_csv.py: Logs top 20 crypto prices to CSV every 30 seconds (view in Excel)
+- Saves timestamped prices to crypto_prices.csv for analysis/Excel. im Building a Foundation for backtesting.
+- 
