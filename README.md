@@ -12,3 +12,5 @@ Next steps: Add backtesting, order book analysis, and more!
 
 ## Projects Added
 - fetch_multiple_prices.py: Fetches prices for BTC, ETH, SOL, BNB, XRP in one go.
+- ## Project
+- live_price_monitor.py → Continuous live updates every 30 seconds
