@@ -20,3 +20,6 @@ Next steps: Add backtesting, order book analysis, and more!
 - 
 ## Project
 - multi_order_book_fetcher.py: Real-time order book viewer for multiple coins (top bids/asks, mid-price, spread)
+
+## Project
+- simple_mm_quotes.py: Basic market-making simulator — calculates mid/spread + inventory-skewed quotes
