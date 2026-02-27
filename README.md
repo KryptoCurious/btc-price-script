@@ -9,3 +9,6 @@ Goal: Learn crypto APIs, data fetching, and quant trading basics.
 Inspired by exploring market making and algorithmic trading.
 
 Next steps: Add backtesting, order book analysis, and more!
+
+## Projects Added
+- fetch_multiple_prices.py: Fetches prices for BTC, ETH, SOL, BNB, XRP in one go.
